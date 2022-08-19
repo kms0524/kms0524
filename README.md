@@ -11,7 +11,8 @@
 ### 📜Motto
 **<i>항상 낮은 자세로, 세상의 모든 지식을 나애게로</i>**
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=critical123)](https://solved.ac/critical123/)
+<img width="1021" alt="solved" src="https://user-images.githubusercontent.com/48994081/185547105-19c3549b-9bf0-40d0-8716-8fa31521b76b.png">
+
 
 ## ⚙️ My skills and tools
 
