@@ -3,7 +3,7 @@
   </a>
 </div>
 
-### Native iOS Junior Devloper 👋
+### Native iOS Junior Developer 👋
 
 - **📚명지대학교 정보통신공학과 졸업👨‍🎓** <br/>
 - **💎팀 '얼리버디' 토스 스타트업 서바이벌 FOUND 본선 진출💎** <br/>
