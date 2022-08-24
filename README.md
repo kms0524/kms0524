@@ -8,10 +8,15 @@
 - **📚명지대학교 정보통신공학과 졸업👨‍🎓** <br/>
 - **💎팀 '얼리버디' 토스 스타트업 서바이벌 FOUND 본선 진출💎** <br/>
 
-### 📜Motto
+### 📜 Motto
 **<i>항상 낮은 자세로, 세상의 모든 지식을 나애게로</i>**
 
 <img width="1021" alt="solved" src="https://user-images.githubusercontent.com/48994081/185547105-19c3549b-9bf0-40d0-8716-8fa31521b76b.png">
+
+## 🗒 My Notion
+<p align="center">
+  <a href="https://www.notion.so/Native-iOS-Junior-Developer-f5ffd4f34bcf4214ac974bd8ff122cf0" target="_blank"><img src="https://img.shields.io/badge/notion%20-%23121011.svg?&style=for-the-badge&logo=notion&logoColor=white&color=black"/></a>
+</p>
 
 
 ## ⚙️ My skills and tools
