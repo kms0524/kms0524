@@ -15,7 +15,7 @@
 
 ## 🗒 My Notion
 <p align="center">
-  <a href="https://www.notion.so/Native-iOS-Junior-Developer-f5ffd4f34bcf4214ac974bd8ff122cf0" target="_blank"><img src="https://img.shields.io/badge/notion%20-%23121011.svg?&style=for-the-badge&logo=notion&logoColor=white&color=black"/></a>
+  <a href="https://apricot-olive-844.notion.site/Native-iOS-Junior-Developer-f5ffd4f34bcf4214ac974bd8ff122cf0" target="_blank"><img src="https://img.shields.io/badge/notion%20-%23121011.svg?&style=for-the-badge&logo=notion&logoColor=white&color=black"/></a>
 </p>
 
 
