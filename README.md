@@ -19,6 +19,8 @@
 ![Java](https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E&color=blue)
 ![Firebase](https://img.shields.io/badge/firebase-%2300f.svg?&style=for-the-badge&logo=firebase&logoColor=white&color=red)
 ![CocoaPods](https://img.shields.io/badge/cocoapods%20-%23121011.svg?&style=for-the-badge&logo=cocoapods&logoColor=white&color=yellow)
+![SPM](https://img.shields.io/badge/spm%20-%23121011.svg?&style=for-the-badge&logo=spm&logoColor=white&color=orange)
+![Carthage](https://img.shields.io/badge/carthage%20-%23121011.svg?&style=for-the-badge&logo=carthage&logoColor=white&color=gray)
 ![Xcode](https://img.shields.io/badge/xcode%20-%231572B6.svg?&style=for-the-badge&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
@@ -26,6 +28,11 @@
 ![Notion](https://img.shields.io/badge/notion%20-%23121011.svg?&style=for-the-badge&logo=notion&logoColor=white&color=black)
 ![Trello](https://img.shields.io/badge/trello%20-%23121011.svg?&style=for-the-badge&logo=trello&logoColor=blue&color=white)
 ![Zeplin](https://img.shields.io/badge/zeplin%20-%23121011.svg?&style=for-the-badge&logo=zeplin&logoColor=white&color=orange)
+![FlexLayout](https://img.shields.io/badge/flexlayout%20-%23121011.svg?&style=for-the-badge&logo=flexlayout&logoColor=purple&color=black)
+![ReactorKit](https://img.shields.io/badge/reactorkit%20-%23121011.svg?&style=for-the-badge&logo=reactorkit&logoColor=white&color=blue)
+![Alamofire](https://img.shields.io/badge/alamofire%20-%23121011.svg?&style=for-the-badge&logo=alamofire&logoColor=white&color=orange)
+![Moya](https://img.shields.io/badge/moya%20-%23121011.svg?&style=for-the-badge&logo=moya&logoColor=white&color=pink)
+![Tuist](https://img.shields.io/badge/tuist%20-%23121011.svg?&style=for-the-badge&logo=tuist&logoColor=purple&color=white)
 
 ## 📖 Libraries
 - <i>Foundation, UIKit</i></br>
@@ -33,7 +40,10 @@
 - <i>WebKit, MapKit, AVFoundation</i></br>
 - <i>DispatchQueue, DispatchGroup, RxSwift, RxCocoa</i></br>
 - <i>UIStoryboard, AutoLayout, FlexLayout</i></br>
-- <i>URLSession, Alamofire, SwiftyJSON</i></br>
+- <i>URLSession, Alamofire, Moya, SwiftyJSON</i></br>
+- <i>CocoaPods, SPM, Carthage</i></br>
+- <i>ReactorKit</i></br>
+- <i>Tuist</i></br>
 - <i>Firebase Crashlytics, Firebase Storage, Firebase Realtime Database, Firebase Cloud Messaging, Kakao Map API, Spotify Web API</i></br>
 - <i>SDWebImage, TweeTextField</i></br>
 
